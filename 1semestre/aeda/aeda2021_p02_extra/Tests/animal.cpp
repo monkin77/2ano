@@ -55,7 +55,7 @@ bool Bat::isYoung() const {
 
 string Animal::getInfo() const {
     string ans = "";
-    ans = ans + this->name + ", " + to_string(this->age) + ", ";
+    ans += this->name + ", " + to_string(this->age);
     if(this->vet != NULL){
         ans = ans + this->vet->getInfo();
     }
@@ -64,7 +64,7 @@ string Animal::getInfo() const {
 
 string Dog::getInfo() const {
     string ans = "";
-    ans = ans + Animal::getInfo() + this->breed;
+    ans += Animal::getInfo() + ", " + this->breed;
     //std::cout << ans << std::endl;
     return ans;
 }
@@ -79,7 +79,7 @@ int Flying::getMaxVelocity() const {
 
 string Bat::getInfo() const {
     string ans = "";
-    ans = ans + Animal::getInfo() + to_string(this->getMaxVelocity()) + ", " + to_string(this->getMaxAltitude());
+    ans += Animal::getInfo() + ", " + to_string(this->getMaxVelocity()) + ", " + to_string(this->getMaxAltitude());
     //std::cout << ans << std::endl;
     return ans;
 }

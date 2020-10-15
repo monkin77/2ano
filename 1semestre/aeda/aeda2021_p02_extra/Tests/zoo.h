@@ -14,8 +14,8 @@ public:
     string getInfo() const;
     bool isYoung(string nameA);
     void allocateVeterinarians(istream &isV);
-//    bool removeVeterinary(string nameV);
-//    bool operator < (Zoo& zoo2) const;
+    bool removeVeterinary(string nameV);
+    bool operator < (Zoo& zoo2) const;
 };
 
 

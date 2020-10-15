@@ -12,7 +12,7 @@ Veterinary::Veterinary(string nome, int cod) {
 
 string Veterinary::getInfo() const {
     string ans = "";
-    ans = ans + this->name + " " + to_string(this->codOrder);
+    ans += ", " + this->name + ", " + to_string(this->codOrder);
     return ans;
 }
 

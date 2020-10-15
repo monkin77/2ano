@@ -98,7 +98,7 @@ TEST(test, e_allocateVeterinarians){
     EXPECT_EQ("kurika, 10, Rui Silva, 1234, estrela", a1->getInfo());
 }
 
-/*TEST(test, f_removeVeterinary){
+TEST(test, f_removeVeterinary){
     Zoo z1;
 
     Animal *a1=new Dog("kurika",10,"estrela");
@@ -126,9 +126,9 @@ TEST(test, e_allocateVeterinarians){
     z1.removeVeterinary("Rui Silva");
 
     EXPECT_EQ("kurika, 10, Artur Costa, 3542, estrela", a1->getInfo());
-}*/
+}
 
-/*
+
 TEST(test, h_compareZoo){
     Zoo z1;
 
@@ -157,4 +157,4 @@ TEST(test, h_compareZoo){
     z2.addAnimal(b4);
 
     EXPECT_EQ(true, z2 < z1);
-}*/
+}
