@@ -28,39 +28,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26945f2e-0105-4ecf-b9e5-14999561634d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aeda2021_p03/docs/Doxyfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aeda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aeda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/StreamZ.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/StreamZ.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/formatoUsers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/formatoUsers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/pastStreams.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/pastStreams.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/stream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/stream.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/stream.h" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/stream.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StreamZ-AEDA-proj-/viewers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StreamZ-AEDA-proj-/viewers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/aeda2021_p03.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/aeda2021_p03.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/aeda2021_p03.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/aeda2021_p03.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/aeda2021_p03.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/aeda2021_p03.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/aeda2021_p03.exe" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/aeda2021_p03.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gmock.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gmock.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/gtest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock/gtest/gtest.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googletest-distribution.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/googletest-master/googletest-distribution.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/libgtest_maind.a" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/libgtest_maind.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/libgtestd.a" beforeDir="false" afterPath="$PROJECT_DIR$/aeda2021_p03/cmake-build-debug/lib/libgtestd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/mnum/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/mnum/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/mnum/v16/ipch/AutoPCH/2f8c03f5f8e944f2/CALC1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/mnum/v16/ipch/AutoPCH/44eca8332de8392a/CALC1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/.vs/Mnum/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/.vs/Mnum/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/.vs/Mnum/v16/ipch/AutoPCH/55acb5ba6516bd7f/CALC1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Debug/Mnum.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Debug/Mnum.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Debug/Mnum.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/Mnum.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/Mnum.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/calc1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Mnum.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Mnum.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/Mnum.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/Mnum/Mnum/calc1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/class03newton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/class03piano.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnum/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +86,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -105,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605124855828</updated>
       <workItem from="1605124857331" duration="93000" />
+      <workItem from="1606416445016" duration="54000" />
     </task>
     <servers />
   </component>
@@ -121,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605124948177">
