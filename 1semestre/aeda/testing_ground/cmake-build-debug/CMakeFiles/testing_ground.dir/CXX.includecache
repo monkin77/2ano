@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/testing_ground/main.cpp
+iostream
+-
+list
+-
+queue
+-
+stack
+-
+algorithm
+-
+

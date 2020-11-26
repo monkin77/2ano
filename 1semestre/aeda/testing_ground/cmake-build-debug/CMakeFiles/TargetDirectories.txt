@@ -1,0 +1,3 @@
+C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/testing_ground/cmake-build-debug/CMakeFiles/testing_ground.dir
+C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/testing_ground/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/testing_ground/cmake-build-debug/CMakeFiles/rebuild_cache.dir

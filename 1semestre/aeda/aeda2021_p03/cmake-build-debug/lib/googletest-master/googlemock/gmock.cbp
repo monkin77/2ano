@@ -5,7 +5,7 @@
 		<Option title="gmock"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\googletest-master\;CMake Files\lib\googletest-master\googlemock\;CMake Files\lib\googletest-master\googlemock\cmake\;CMake Files\lib\googletest-master\googletest\;CMake Files\lib\googletest-master\googletest\cmake\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\docs\;CMake Files\lib\;CMake Files\lib\googletest-master\;CMake Files\lib\googletest-master\googlemock\;CMake Files\lib\googletest-master\googlemock\cmake\;CMake Files\lib\googletest-master\googletest\;CMake Files\lib\googletest-master\googletest\cmake\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/aeda2021_p03/cmake-build-debug/lib/googletest-master/googlemock"/>
@@ -224,6 +224,9 @@
 		</Unit>
 		<Unit filename="C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/aeda2021_p03/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/aeda2021_p03/docs/Doxyfile">
+			<Option virtualFolder="CMake Files\docs\"/>
 		</Unit>
 		<Unit filename="C:/Users/joaog/OneDrive/Desktop/FEUP/2ano/1semestre/aeda/aeda2021_p03/lib/googletest-master/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\googletest-master\"/>
